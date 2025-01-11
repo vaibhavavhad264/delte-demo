@@ -1,2 +1,2 @@
 # delte-demo
-Tis is demo for git and github class
+Tis is demo for git and github class.
